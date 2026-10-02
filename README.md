@@ -8,5 +8,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN...)](https://linkedin.com/in/kullanici-adin)(https://www.linkedin.com/in/anıl-ege-695668399/)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anl.ege05@gmail.com)
+<a href="https://www.linkedin.com/in/anıl-ege-695668399/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:anl_ae@hotmail.com"><img src="https://img.shields.io/badge/E--POSTA-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Posta" /></a>
+</div>
